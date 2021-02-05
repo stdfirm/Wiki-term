@@ -39,19 +39,19 @@ categories:
 
 ### 贡献方式
 
-1. **直接编写**（需要有一个 GitHub账号）
+1. **直接编写**（需要有一个gitee账号）
    
-   不用担心， 只需要基本的GitHub操作能力即可。
+   由于GitHub访问受限，现已转移至gitee。不用担心， 只需要基本的gitee操作能力即可。
    
    **举例说明：**
    
    1. 在 [标准化基础术语符号积累](http://term.stdfirm.com/) 上找到需要编辑的页面
    2. 点击 正文右上方 **“edit”** （编辑此页）按钮
-   3. 稍等片刻，跳转到 Github 上的对应页面，就可以在线编辑了
-   4. 编辑完毕，点下方的绿色按钮，可能会提示没有权限。不必担心！Github 会自动帮你 fork 一份项目的文件并创建 Pull Request，到这里就完成编辑了。
+   3. 稍等片刻，跳转到 gitee（原：Github ）上的对应页面，就可以在线编辑了
+   4. 编辑完毕，点下方的绿色按钮，可能会提示没有权限。不必担心！gitee（原：Github ）会自动帮你 fork 一份项目的文件并创建 Pull Request，到这里就完成编辑了。
    5. 经过确认后，我们会合并到master中。
    
-2. **参与内容建设**（不会用GitHub？也没问题！）
+2. **参与内容建设**（不会用gitee（原：Github ）？也没问题！）
 
    - 请将标准内容整理成markdown（.md）、Latex（.tex）、word（.docx）等任意可编辑形式，发送到[term@stdfirm.com](mailto:term@stdfirm.com)。
 
