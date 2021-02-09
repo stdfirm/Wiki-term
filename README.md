@@ -63,5 +63,3 @@ categories:
 
 [小酌笔墨](http://www.blog.stdfirm.com/)、[HEXO](https://hexo.io/about/)、[zthxxx](https://github.com/zthxxx/hexo-theme-Wikitten)等。
 
-### 赞助者
-。。。
