@@ -26,11 +26,15 @@ categories:
   - GB/T 20000.1-2014 标准化工作指南 第1部分：标准化和相关活动的通用术语
   - GB/T 27000-2006  合格评定 词汇和通用原则
   - 。。。
-- 标准化基础性符号-梳理学习
-  - 。。。
 - 行业领域专用术语-梳理学习
   - 。。。
+- 标准化基础性符号-梳理学习
+  - 。。。
 - 行业领域专用符号-梳理学习
+  - 。。。
+- 标准化缩略语
+  - 。。。
+- 网络资源库
   - 。。。
 - 。。。
 
@@ -70,7 +74,7 @@ categories:
 
 ### 贡献者
 
-[小酌笔墨](http://www.blog.stdfirm.com/)等。
+[小酌笔墨](http://www.blog.stdfirm.com/)、[拓扑抱一](http://标准化.top)、[“金标”助理](https://std.gold)等。
 
 ### 致谢
 
@@ -83,6 +87,7 @@ categories:
 
 ---
 
-### From: “追梦”科研，一个有范的科研与标准化小助理
+### “金标”助理——标准化助理/标准化助手/深度科研与品质标准
 
-**站群地址**：[https://www.stdfirm.com/](https://www.stdfirm.com/)
+**站群地址**：[https://std.gold/](https://std.gold/) | [https://www.stdfirm.com/](https://www.stdfirm.com/)
+
