@@ -27,5 +27,5 @@ layout: "page"
 
 联系地址：
 
-basestd@stdfirm.com
+term@stdfirm.com
 
